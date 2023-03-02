@@ -5,8 +5,7 @@
     box-sizing: border-box;
 }
 
-.row::after{
-    content: none;
+.row::after:empty{
     display: table;
     float: none;
 }
