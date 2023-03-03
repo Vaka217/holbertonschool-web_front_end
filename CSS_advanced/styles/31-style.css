@@ -373,7 +373,7 @@ ul.row{
 }
 
 .card-testimonial .card-quote::before{
-    quotes: '\201C';
+    quotes: "“";
     position: absolute;
     top: -4.5rem;
     bottom: -4.5rem;
