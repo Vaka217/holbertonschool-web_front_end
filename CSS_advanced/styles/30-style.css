@@ -333,8 +333,8 @@ ul.row{
     position: absolute;
     top: -0.1rem;
     left: -0.1rem;
-    right: 0.1rem;
-    z-index: 0;
+    right: -0.1rem;
+    z-index: 1;
 }
 
 .card-work:hover .card-inner{
